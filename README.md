@@ -2,6 +2,8 @@
 
 This repository contains my Python learning journey and the code and Jupyter notebooks I have practised while studying Python. I am using it to keep my notes, examples, and practice work organised in one place.
 
+I will also Teach You what Have I learned through my Python developer journey!
+
 ## Topics I have studied and practised
 
 - **Python Basics** — introduction, prerequisites, variables, data types, and operators
