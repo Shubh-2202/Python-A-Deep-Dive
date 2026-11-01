@@ -49,7 +49,7 @@ print(min(numbers), max(numbers))
 for i in range(10):
     print(i)
 
-lists=["Shubh","Ishanhvi","Chhavi","Agrima","Shriya","Nandini"]
+lists=["Shubh","Ishanhvi","Shriya","Nandini"]
 
 for i in lists:
     print(i)
